@@ -3,6 +3,13 @@
 }
 
 .panda-btn-warning {
-    background-color: #ec1a7c;
-    color: #fceae8;
+    /* background-color: #ec1a7c; */
+    background-color: #FF136F;
+    /* background-image: linear-gradient(to bottom, #FF5898 0%, #FF136F 100%); */
+    color: #FFFFFF;
+    /* border: none; */
+}
+
+.categories img {
+    width: 100px;
 }
